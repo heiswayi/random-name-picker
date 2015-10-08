@@ -2,9 +2,9 @@
 
 This is a simple HTML tool written with JavaScript to randomly pick a name from a list. The name that has been picked is removable from the list. This is useful for indoor event/party.
 
-[**Live Demo**](http://heiswayi.github.io/random-name-picker)
+[**Demo**](http://heiswayi.github.io/random-name-picker)
 
-###Screenshots
+## Screenshots
 
 ![screenshot1](/screenshot/1.png "Intro")
 
@@ -14,6 +14,6 @@ This is a simple HTML tool written with JavaScript to randomly pick a name from 
 
 ![screenshot4](/screenshot/4.png "Run")
 
-# License
+## License
 
-[MIT License](http://heiswayi.github.io/mit-license)
+MIT License
